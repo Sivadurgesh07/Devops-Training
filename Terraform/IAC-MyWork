@@ -1,0 +1,16 @@
+Creating Infrastructure Using Code - Definition
+
+IAC can be divided in three categories :
+ 1. Infra Provisioning Tool
+ 2. Configuration Management Tool
+ 3. Server Templating Tool (Image Building Tool)
+
+EXAMPLE:
+Creating the EC2 instance,VPC,S3 are the examples of infrastructure provisiong. 
+Installing necessary software inside the EC2 instance is the example of Configuration Management.
+Creating the AMI(Image) for the future use and other people to use it we have server templating tool.
+
+Tools:
+1. AWS CloudFormation
+2. Terraform
+3. 
