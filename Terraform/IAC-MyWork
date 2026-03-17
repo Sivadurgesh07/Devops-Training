@@ -10,7 +10,14 @@ Creating the EC2 instance,VPC,S3 are the examples of infrastructure provisiong.
 Installing necessary software inside the EC2 instance is the example of Configuration Management.
 Creating the AMI(Image) for the future use and other people to use it we have server templating tool.
 
-Tools:
+Infra Provisioning Tools Example:
 1. AWS CloudFormation
 2. Terraform
-3. 
+3. Pulumi
+4. Azure ARM Templates
+
+Confiuration Management Tools Example:
+1. Ansible 
+2. Chef
+3. Puppet
+4. Saltstacks
