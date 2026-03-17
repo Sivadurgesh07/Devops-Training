@@ -9,3 +9,13 @@ Analytical service
 2. Amazon EMR(Elastic Map Reduce) - Hadoop / Spark Cluster
 3. Amazon Glue - ETL Service (Extract Transform Load)
 4. Amazon Kinesis - Screen Data Processing 
+
+Machine Learning
+ 1. Amazon SageMaker - Build and train ML model
+ 2. Amazon Rekognition - Image Rekognition
+ 3. Amazon Lex - Chatbot
+
+Migration Service
+ 1. AWS Database Migration Service - Migrates database
+ 2. AWS Snowball - Physical Data transfer device
+ 3. AWS Application Migration Service - Lift and Shift Migration
