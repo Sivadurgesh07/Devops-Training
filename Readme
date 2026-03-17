@@ -5,6 +5,23 @@
 
 ---
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivadurgesh-k)
+
+---
+
+# 💻 DevOps Tech Stack:
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
 ## 🧠 What I'm Learning
 
 - AWS (EC2, S3, IAM, Lambda)
@@ -20,32 +37,27 @@
 📁 Cloud-Practitioner-Certification  
 📁 Terraform  
 📁 Daily-Task  
+📁 docker-project  
 
 ---
 
-## 🚀 Current Progress
+## 🚀 Projects
 
-✔️ Learning AWS fundamentals  
-✔️ Practicing Terraform scripts  
-✔️ Building small DevOps tasks daily  
+### 🔹 Dockerized Web App
+- Containerized HTML app using Docker
+- Used Nginx to serve the app
+
+📁 Folder: docker-project/
 
 ---
 
-## 🔥 Upcoming Projects
+## 📊 GitHub Stats
 
-- 🔹 Deploy Angular app using Docker + AWS  
-- 🔹 Build CI/CD pipeline using Jenkins  
-- 🔹 Kubernetes deployment with scaling  
-- 🔹 Infrastructure automation using Terraform  
+![](https://github-readme-stats.vercel.app/api?username=Sivadurgesh07&theme=radical&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Sivadurgesh07&theme=radical&hide_border=false)
 
 ---
 
 ## 🎯 Goal
 
-To become a **DevOps Engineer** by building real-world cloud and automation projects.
-
----
-
-## 🌐 Connect With Me
-
-[LinkedIn](https://linkedin.com/in/sivadurgesh-k)
+To become a **DevOps Engineer** by building real-world cloud and automation projects 🚀
