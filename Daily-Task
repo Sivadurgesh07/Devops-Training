@@ -1,0 +1,22 @@
+17-March-26
+What is Container? 
+Ans: A container is a package that contains:
+        1.Applications
+        2.code
+        3.Libraries.
+
+What is Orchestration?
+Ans: Managing multiple containers automatically.
+
+What is Orchestration in Kubernetes?
+Ans: Automatically managing containers using Kubernetes.
+
+What is Docker ?
+Ans: Tool used to create and run containers.
+
+What is Kubernetes ?
+Ans: Tool used to manage multiple containers automatically.
+
+Relationship between Docker and Kubernetes?
+Ans: Docker creates containers.
+     Kubernetes manages those containers.
