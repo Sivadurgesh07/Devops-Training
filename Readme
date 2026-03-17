@@ -6,21 +6,20 @@
 ---
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sivadurgesh-k)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sivadurgesh-k)
 
 ---
 
-# 💻 DevOps Tech Stack:
-
-# 💻 DevOps Tech Stack:
+## 💻 DevOps Tech Stack:
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/github_actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=for-the-badge&logo=github-actions&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+
 ---
 
 ## 🧠 What I'm Learning
@@ -45,8 +44,9 @@
 ## 🚀 Projects
 
 ### 🔹 Dockerized Web App
-- Containerized HTML app using Docker
-- Used Nginx to serve the app
+- Created a simple HTML app
+- Containerized using Docker
+- Served using Nginx  
 
 📁 Folder: docker-project/
 
@@ -54,8 +54,8 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=Sivadurgesh07&theme=radical&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Sivadurgesh07&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=Sivadurgesh07&theme=radical&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Sivadurgesh07&theme=radical)
 
 ---
 
