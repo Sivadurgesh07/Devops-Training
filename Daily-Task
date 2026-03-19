@@ -20,3 +20,36 @@ Ans: Tool used to manage multiple containers automatically.
 Relationship between Docker and Kubernetes?
 Ans: Docker creates containers.
      Kubernetes manages those containers.
+
+
+Terraform:-
+Terraform Providers:
+    Plugin that connects Terraform to cloud/services
+
+Types of Providers
+Official Providers:
+        Created by HashiCorp
+        Example: AWS, Azure
+
+Partner Providers:
+        Created by companies partnered with HashiCorp
+
+Community Providers:
+        Created by developers/community
+
+Terraform Registry:
+        Terraform Registry = A library of providers and modules
+
+Terraform Commands
+1. terraform init
+  Initializes project
+        Downloads providers
+        Prepares working folder
+2.terraform plan
+  Shows what will happen
+        What will be created/changed/deleted
+        No actual changes yet
+3.terraform apply
+   Executes the plan
+        Actually creates resources
+        Applies changes
