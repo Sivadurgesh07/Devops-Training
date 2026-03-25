@@ -25,6 +25,13 @@ Ans: Docker creates containers.
 Terraform:-
 Terraform Providers:
     Plugin that connects Terraform to cloud/services
+   Real-Life Example:-
+1.Terraform = You
+2.Cloud (AWS) = Bank
+3.Provider = ATM machine
+
+👉 You use ATM (provider) to access bank services
+👉 Terraform uses provider to access cloud
 
 Types of Providers
 Official Providers:
