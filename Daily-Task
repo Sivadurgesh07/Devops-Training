@@ -65,4 +65,5 @@ Terraform Commands
 
 1. Connect git with github in laptop
 2. what is aws config and aws cli
-3.Connect your aws acc with laptop (cli or terminal)
+3. Connect your aws acc with laptop (cli or terminal)
+4. install terraform and terraform --version should work
