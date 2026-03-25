@@ -1,1 +1,0 @@
-#HCL-Hashicorp Config Language
