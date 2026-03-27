@@ -61,9 +61,17 @@ Terraform Commands
         Actually creates resources
         Applies changes
 
-25 mar
+25 March 2026
 
 1. Connect git with github in laptop
 2. what is aws config and aws cli
 3. Connect your aws acc with laptop (cli or terminal)
 4. install terraform and terraform --version should work
+
+
+27 March 2026
+
+1. Create terraform template for security creation 
+2. Create for s3 creation
+3. Create for VPC creation
+4. what is variable in terraform explain in detail
