@@ -1,26 +1,50 @@
-Developer/Appliction-Service(Devops-Tools)
-  1. AWS CodeCommit - Repository Service Like Github
-  2. CodeBuild - Builds The Code Like Jenkins And Bamboo
-  3. CodeDeployer - Deploys Applications Like Jenkins And Argo Cd
-  4. CodePipeline - Automation Pipeline Like Jenkins
+#you should have deep understanding of these services with working knowledge.
+  1. AWS IAM - User, Groups, Roles, Policies
+      Types of policies - AWS managed policies, Customer managed policies, Inline policies
+  2. AWS S3 - Bucket, S3 Storage class, S3 Static Website Hosting, Bucket Policies
+      Bucket size and the limitations and the naming convention 
+  3. AWS EC2 - AMI, EBS Volumes, Instance Type Families, Pricing Model
+      Image Creation(AMI creation), Snapshot
+  4. AWS ELB(Elastic Load Balancer)
+      Types of Load Balancer: Application Load Balancer, Network Load Balancer, Classic Load Balancer, Gateway Load Balancer
+  5. AWS ASG(Auto Scaling Group) - 
+  6. AWS Route 53 - 
+  7. AWS Lambda - 
+  8. AWS CloudFormation - 
 
-Analytical service
-1. Amazon Athena - Query S3 Data Using SQL
-2. Amazon EMR(Elastic Map Reduce) - Hadoop / Spark Cluster
-3. Amazon Glue - ETL Service (Extract Transform Load)
-4. Amazon Kinesis - Screen Data Processing 
+#you should be having Basic to Moderate level of knowledge for this service
+  1. AWS Beanstalk
+  2. AWS RDS
+  3. AWS RedShift
+  4. AWS Snowball
+  5. AWS DynamoDB
+  6. AWS SNS and SQS
 
-Machine Learning
- 1. Amazon SageMaker - Build and train ML model
- 2. Amazon Rekognition - Image Rekognition
- 3. Amazon Lex - Chatbot
+#You need to know the name of these services and what its used for.
 
-Migration Service
- 1. AWS Database Migration Service - Migrates database
- 2. AWS Snowball - Physical Data transfer device
- 3. AWS Application Migration Service - Lift and Shift Migration
+  Developer/Appliction-Service(Devops-Tools)
+    1. AWS CodeCommit - Repository Service Like Github
+    2. CodeBuild - Builds The Code Like Jenkins And Bamboo
+    3. CodeDeployer - Deploys Applications Like Jenkins And Argo Cd
+    4. CodePipeline - Automation Pipeline Like Jenkins
 
-Management & Monitoring (Basic Only)
-1. AWS Trusted Advisor – Cost/security/performance recommendations
-2. AWS Config – Track resource configuration
-3. AWS Organizations – Manage multiple AWS accounts
+  Analytical service
+  1. Amazon Athena - Query S3 Data Using SQL
+  2. Amazon EMR(Elastic Map Reduce) - Hadoop / Spark Cluster
+  3. Amazon Glue - ETL Service (Extract Transform Load)
+  4. Amazon Kinesis - Screen Data Processing 
+  
+  Machine Learning
+   1. Amazon SageMaker - Build and train ML model
+   2. Amazon Rekognition - Image Rekognition
+   3. Amazon Lex - Chatbot
+
+  Migration Service
+   1. AWS Database Migration Service - Migrates database
+   2. AWS Snowball - Physical Data transfer device
+   3. AWS Application Migration Service - Lift and Shift Migration
+  
+  Management & Monitoring (Basic Only)
+  1. AWS Trusted Advisor – Cost/security/performance recommendations
+  2. AWS Config – Track resource configuration
+  3. AWS Organizations – Manage multiple AWS accounts
