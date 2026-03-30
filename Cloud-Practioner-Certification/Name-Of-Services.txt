@@ -19,3 +19,8 @@ Migration Service
  1. AWS Database Migration Service - Migrates database
  2. AWS Snowball - Physical Data transfer device
  3. AWS Application Migration Service - Lift and Shift Migration
+
+Management & Monitoring (Basic Only)
+1. AWS Trusted Advisor – Cost/security/performance recommendations
+2. AWS Config – Track resource configuration
+3. AWS Organizations – Manage multiple AWS accounts
