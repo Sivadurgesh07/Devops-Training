@@ -75,3 +75,17 @@ Terraform Commands
 2. Create for s3 creation
 3. Create for VPC creation
 4. what is variable in terraform explain in detail
+
+
+3 Apr 2026
+
+1. variable:
+     Variables are like inputs you give to Terraform so your code is reusable.
+2. Workspace:
+     Workspace = multiple environments using same code.
+3. Modules:
+     Module = reusable Terraform code block.
+
+
+
+
