@@ -80,12 +80,11 @@ Terraform Commands
 3 Apr 2026
 
 1. variable:
-     Variables are like inputs you give to Terraform so your code is reusable.
+        Variables are inputs in Terraform that let you customize and reuse the same code with different values.2. Workspace:
 2. Workspace:
-     Workspace = multiple environments using same code.
+        A workspace allows you to manage multiple environments (like dev, test, prod) using the same Terraform configuration.
 3. Modules:
-     Module = reusable Terraform code block.
-
+        A module is a reusable collection of Terraform code used to organize and simplify infrastructure.
 
 
 
