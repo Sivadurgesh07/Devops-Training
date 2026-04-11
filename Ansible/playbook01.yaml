@@ -1,0 +1,15 @@
+#This basic playbook will test the connectivity to entire ansible host
+---
+- name: My First Playbook #this is the name of your playbook
+  hosts: all #this means it will target all the hosts in the inventory file
+  become: yes #this will run your playbook as an administrator
+
+  tasks:  
+    - name: test connectivity #this is play one
+      ping:                   #this will ping all the servers
+
+    - name: print output #this is play two
+      debug:             #this module is for the output
+        msg: "Hello From Ansible"
+
+  
