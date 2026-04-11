@@ -30,9 +30,10 @@
   -> Inventory File = list of servers 
   -> SSH = Connection Method to Linux Servers 
   -> WinRM = Connection method to Windows server (via 
-  -> RDB = connecting to windows system 
+  -> RDP = connecting to windows system 
 
   One Liner: Ansible connects from control node to servers using SSH and WinRM and run the tasks.
+  
 
 
   
