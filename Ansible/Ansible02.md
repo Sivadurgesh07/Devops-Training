@@ -9,8 +9,8 @@
              starting the nginx is another play.
 
 ## ANSIBLE COMMANDS
-1. ansible all -i inventory.ini -m ping -
-2. ansible all -i inventory.ini -a "uptime" -
-3. ansible all -i inventory.ini -m yum -a "name=nginx state=present" --become -
-4. ansible all -i inventory.ini -m service -a "name=nginx state=started" --become - 
+1. ansible all -i inventory.ini -m ping - Checks if all servers are reachable (connectivity test)
+2. ansible all -i inventory.ini -a "uptime" - Runs the uptime command on all servers
+3. ansible all -i inventory.ini -m yum -a "name=nginx state=present" --become - Installs nginx on all servers using sudo
+4. ansible all -i inventory.ini -m service -a "name=nginx state=started" --become - Starts the nginx service on all servers using sudo
   
