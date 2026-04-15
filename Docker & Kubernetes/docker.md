@@ -22,9 +22,12 @@ Explain in simple terms:
 Docker = Tool to run apps in containers
 Container = Lightweight VM (but faster)
 
+
 💡 Example:
 
 Like a lunchbox → everything packed (code + dependencies)
+
+VM is a big house and container is a small room inside the house 
 
 containerization word came for shipping containers
 
@@ -50,7 +53,17 @@ containerization word came for shipping containers
 
 ## Dockerfile
 
-Simple example:
+Simple example: Refer the Dockerfile in the same folder.
+
+How to Run and Build your own image
+cmd: docker build -t myapp .
+cmd: docker run -p 3000:3000 myapp
+
+
+## Devops Example
+Used in CI/CD
+Used in ECS, EKS
+Makes deployments consistent
 
 
    
