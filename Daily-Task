@@ -86,5 +86,19 @@ Terraform Commands
 3. Modules:
         A module is a reusable collection of Terraform code used to organize and simplify infrastructure.
 
+13 Apr 2026
+
+1. VM - A Virtual Machine (VM) is like a full computer inside another computer.
+
+2. Kubernetes - Kubernetes is a container manager (orchestrator).
+
+3. Docker - Runs applications in containers
+
+
+        VM                                        DOCKER                                        Kubernetes
+
+     Full OS inside                             Shares host OS                            No OS (manages containers)
+        Heavy                                     Lightweight                                 Depends on cluster
+
 
 
