@@ -30,8 +30,6 @@ containerization word came for shipping containers
 
 ## Key Docker Concepts (Very Important)
 
-Explain these 4 clearly:
-
 1. Image 
     Blueprint of app
     Like a class
@@ -39,17 +37,20 @@ Explain these 4 clearly:
 2. Container
     Running instance
     Like an object
+    Just like an actual Virtual Machine but not exactly a Virtual Machine.
    
-3. Dockerfile
+4. Dockerfile
     Instructions to build image.
     Code which will tell how your docker image will look like.
    
-4. Docker Hub
+5. Docker Hub
     Public repo for images.
     just like Github repo for the containers.
 
 
+## Dockerfile
 
+Simple example:
 
 
    
