@@ -1,4 +1,4 @@
-# Base Image 
+# Base Image (Downloading it from the docker hub)
 FROM node:18-alpine
 
 # Set Working Directory
